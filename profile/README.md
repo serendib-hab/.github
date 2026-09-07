@@ -47,7 +47,7 @@ If you would like to support our student-led high-altitude balloon missions, sen
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/sedssl" target="_blank">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sedssl&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" height="42" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42" />
   </a>
 </p>
 

@@ -45,7 +45,13 @@ The project is dedicated to designing accessible software, radio telemetry pipel
 
 If you would like to support our student-led high-altitude balloon missions, sensor development, and launches:
 
-* **Buy Me a Coffee** : [buymeacoffee.com/sedssl](https://buymeacoffee.com/sedssl)
+<p align="left">
+  <a href="https://www.buymeacoffee.com/sedssl" target="_blank">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sedssl&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" height="42" />
+  </a>
+</p>
+
+* **Direct Support** : [buymeacoffee.com/sedssl](https://buymeacoffee.com/sedssl)
 * **Hardware & In-Kind Sponsorship** : We welcome sponsorships for helium, RF modules, sensors, and avionics hardware. Contact [serendib@sedssl.org](mailto:serendib@sedssl.org) to partner with us.
 
 ---
